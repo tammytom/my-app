@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background: url("./images/28804.jpg");
+  /* background-repeat: no-repeat; */
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ .section{ 
+  display:  flex;
+  /* flex-direction: column; */
+  
+  /* border: 2px solid rgb(118, 204, 6); */
+}
+/* @font-face {
+  font-family: Red-Seven;
+  src: url("/my-app/public/fonts/Red-Seven.otf");
+} */
+
+.heading{
+  width: 132%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 80px auto;
+  /* margin-left: 40px; */
+  font-size: 72px;
+  color: white;
+  font-family: 'Michroma';
+  font-variant: small-caps;
+}
+  
+
+.paragraph{
+  display:  flex;
+  flex-direction: row;
+  margin: 30px;
+  line-height: 30px;
+  color: white;
+  font-size: 18px;
+  font-family: 'Michroma';
+  /* border: 2px solid rgb(6, 91, 202); */
+}
+/* body{
+  background-color:rgb(190, 232, 245);
+} */
+/* img{
+  width: 80%;
+  margin-left: 90px;
+  margin-top: 40px;
+} */
+/* .topone{
+  display: block;
+  border: 2px solid orange;
+}   */

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "",
+        "para": "Home",
+        "ImagePath": "https://storage.googleapis.com/raindroppublic/website_data/HomeDesigned.png"
+    },
+    {
+        "id": "2",
+        "title": "",
+        "para": "Services",
+        "ImagePath": "https://storage.googleapis.com/raindroppublic/website_data/HomeDesigned.png"
+    }, 
+    {
+        "id": "3",
+        "title": "The time is right for electric cars",
+        "para": "",
+        "ImagePath": "https://storage.googleapis.com/raindroppublic/website_data/HomeDesigned.png"
+    }, 
+    {
+        "id": "4",
+        "title": "",
+        "para": "Contact",
+        "ImagePath": "https://storage.googleapis.com/raindroppublic/website_data/HomeDesigned.png"
+    }, 
+    {
+        "id": "5",
+        "title": "",
+        "para": "About",
+        "ImagePath": "https://storage.googleapis.com/raindroppublic/website_data/HomeDesigned.png"
+    }
+]
